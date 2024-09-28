@@ -1,0 +1,1001 @@
+user_id,course_id,course_name,topic_id,topic_name,progress
+269,65,Introduction Statistics,19,Linear Regression,0.49
+772,41,Advanced Statistics,6,Functions,0.51
+411,39,Basic Python,42,Linear Regression,0.01
+681,24,Basic Python,43,Control Structures,0.59
+428,9,Advanced Statistics,4,Control Structures,0.77
+738,94,Introduction Machine Learning,40,Functions,0.36
+281,26,Introduction Machine Learning,2,Functions,0.29
+226,62,Introduction Python,11,Pandas and NumPy,0.7
+593,71,Advanced Data Science,6,Functions,0.82
+965,55,Advanced Machine Learning,33,Linear Regression,0.92
+282,52,Intermediate Python,45,Linear Regression,0.55
+473,21,Basic Machine Learning,14,Functions,0.57
+675,31,Basic Python,45,Linear Regression,0.48
+267,68,Advanced Python,48,Functions,0.97
+149,33,Intermediate Data Science,12,Linear Regression,0.07
+222,5,Advanced Machine Learning,35,Linear Regression,0.93
+305,15,Basic Machine Learning,8,Pandas and NumPy,0.54
+594,41,Intermediate Python,23,Linear Regression,0.28
+176,46,Basic Data Science,42,Variables and Data Types,0.94
+301,57,Introduction Machine Learning,16,Linear Regression,0.35
+136,74,Intermediate Data Science,4,Pandas and NumPy,0.8
+633,33,Intermediate Data Science,24,Linear Regression,0.97
+740,30,Basic Statistics,34,Variables and Data Types,0.3
+76,77,Intermediate Data Science,32,Linear Regression,0.19
+952,22,Advanced Python,22,Control Structures,0.09
+888,63,Basic Statistics,7,Variables and Data Types,0.37
+95,55,Introduction Statistics,20,Control Structures,0.92
+938,11,Basic Data Science,44,Functions,0.9
+802,21,Basic Python,35,Variables and Data Types,0.76
+758,6,Intermediate Data Science,31,Control Structures,0.02
+901,8,Introduction Machine Learning,47,Functions,0.09
+800,24,Intermediate Machine Learning,29,Linear Regression,0.73
+368,26,Introduction Data Science,5,Functions,0.39
+911,50,Basic Statistics,46,Functions,0.01
+227,59,Intermediate Python,48,Linear Regression,0.35
+987,76,Intermediate Python,46,Variables and Data Types,0.35
+496,43,Basic Data Science,39,Linear Regression,0.3
+136,19,Introduction Data Science,21,Linear Regression,0.05
+526,84,Basic Machine Learning,22,Control Structures,0.59
+380,46,Introduction Machine Learning,50,Variables and Data Types,0.8
+810,70,Basic Python,9,Functions,0.51
+502,15,Basic Machine Learning,32,Pandas and NumPy,0.96
+707,57,Introduction Statistics,37,Variables and Data Types,0.18
+941,48,Advanced Statistics,12,Control Structures,0.47
+935,49,Intermediate Statistics,22,Linear Regression,0.5
+17,58,Advanced Statistics,46,Functions,0.3
+331,1,Advanced Python,13,Pandas and NumPy,0.6
+386,8,Intermediate Statistics,14,Linear Regression,0.5
+778,18,Advanced Statistics,30,Variables and Data Types,0.76
+219,3,Intermediate Data Science,32,Control Structures,0.91
+316,71,Introduction Data Science,31,Variables and Data Types,0.04
+901,39,Intermediate Machine Learning,31,Pandas and NumPy,0.36
+854,43,Introduction Statistics,42,Pandas and NumPy,0.21
+152,97,Advanced Statistics,45,Control Structures,0.61
+287,59,Basic Statistics,7,Pandas and NumPy,0.96
+681,89,Advanced Data Science,25,Functions,0.62
+310,1,Advanced Python,31,Variables and Data Types,0.77
+852,7,Basic Statistics,28,Linear Regression,0.91
+357,100,Introduction Statistics,25,Pandas and NumPy,0.99
+273,80,Intermediate Machine Learning,5,Variables and Data Types,0.08
+588,30,Advanced Data Science,9,Pandas and NumPy,0.03
+147,72,Basic Python,49,Linear Regression,0.33
+757,93,Introduction Data Science,46,Linear Regression,0.46
+268,49,Advanced Python,4,Linear Regression,0.23
+671,67,Introduction Machine Learning,40,Pandas and NumPy,0.12
+671,62,Advanced Python,6,Linear Regression,0.68
+28,77,Introduction Statistics,7,Variables and Data Types,0.94
+33,45,Intermediate Data Science,8,Control Structures,0.16
+622,75,Intermediate Python,8,Pandas and NumPy,0.71
+600,26,Basic Statistics,40,Control Structures,0.22
+838,95,Introduction Statistics,27,Variables and Data Types,0.9
+862,49,Advanced Machine Learning,43,Variables and Data Types,0.2
+869,52,Intermediate Machine Learning,25,Functions,0.62
+323,75,Introduction Machine Learning,5,Functions,0.06
+593,74,Basic Machine Learning,47,Pandas and NumPy,0.08
+10,41,Introduction Machine Learning,12,Control Structures,0.91
+593,98,Intermediate Machine Learning,47,Variables and Data Types,0.27
+789,5,Intermediate Data Science,11,Linear Regression,0.78
+13,94,Advanced Python,39,Variables and Data Types,0.6
+410,19,Basic Python,15,Variables and Data Types,0.57
+972,12,Intermediate Statistics,38,Control Structures,0.06
+51,6,Introduction Machine Learning,29,Control Structures,0.3
+749,80,Introduction Python,38,Linear Regression,0.58
+704,94,Advanced Statistics,33,Control Structures,0.57
+711,86,Introduction Statistics,40,Control Structures,0.12
+705,20,Basic Statistics,28,Control Structures,0.69
+977,9,Basic Python,7,Variables and Data Types,0.28
+588,91,Introduction Python,49,Variables and Data Types,0.78
+469,8,Advanced Python,44,Variables and Data Types,0.65
+737,30,Advanced Data Science,28,Pandas and NumPy,0.73
+521,67,Intermediate Data Science,46,Pandas and NumPy,0.74
+797,24,Introduction Python,15,Linear Regression,0.13
+36,71,Advanced Statistics,7,Linear Regression,0.65
+754,7,Intermediate Data Science,17,Pandas and NumPy,0.94
+54,4,Intermediate Machine Learning,48,Control Structures,0.51
+379,8,Introduction Data Science,30,Linear Regression,0.05
+627,92,Introduction Statistics,40,Control Structures,0.8
+790,22,Intermediate Statistics,2,Pandas and NumPy,0.44
+49,73,Basic Python,12,Control Structures,0.68
+795,85,Intermediate Data Science,46,Pandas and NumPy,0.19
+448,9,Advanced Data Science,26,Control Structures,0.84
+267,26,Introduction Statistics,46,Variables and Data Types,0.31
+412,28,Introduction Machine Learning,26,Control Structures,0.01
+248,4,Advanced Statistics,47,Linear Regression,0.24
+208,64,Basic Python,50,Variables and Data Types,0.73
+985,36,Intermediate Data Science,50,Functions,0.45
+243,66,Intermediate Python,9,Control Structures,0.4
+465,40,Advanced Statistics,13,Pandas and NumPy,0.15
+593,69,Basic Python,32,Linear Regression,0.05
+481,76,Advanced Python,26,Pandas and NumPy,0.78
+286,19,Advanced Python,28,Pandas and NumPy,0.76
+315,93,Introduction Python,32,Pandas and NumPy,0.38
+973,43,Introduction Python,3,Pandas and NumPy,0.73
+757,79,Introduction Python,23,Pandas and NumPy,0.3
+588,1,Advanced Data Science,39,Variables and Data Types,0.43
+495,83,Basic Statistics,39,Functions,0.45
+672,71,Basic Python,21,Control Structures,0.2
+863,71,Introduction Statistics,48,Linear Regression,0.64
+119,97,Advanced Python,9,Linear Regression,0.99
+14,37,Basic Machine Learning,40,Control Structures,0.5
+897,66,Basic Machine Learning,1,Functions,0.09
+615,93,Introduction Data Science,43,Control Structures,0.47
+498,31,Intermediate Python,1,Pandas and NumPy,0.65
+396,23,Advanced Statistics,29,Linear Regression,0.39
+967,83,Intermediate Machine Learning,47,Variables and Data Types,0.58
+893,37,Basic Machine Learning,4,Control Structures,0.92
+394,73,Basic Statistics,13,Functions,0.16
+528,81,Basic Machine Learning,48,Linear Regression,0.41
+747,44,Intermediate Python,6,Linear Regression,0.42
+204,22,Intermediate Statistics,14,Linear Regression,0.84
+144,53,Advanced Statistics,44,Variables and Data Types,0.55
+346,37,Advanced Data Science,11,Control Structures,0.31
+160,76,Intermediate Python,7,Linear Regression,0.6
+966,77,Introduction Machine Learning,14,Linear Regression,0.21
+941,86,Basic Python,36,Pandas and NumPy,0.01
+389,21,Intermediate Python,43,Linear Regression,0.06
+999,77,Introduction Python,34,Linear Regression,0.8
+526,86,Advanced Python,4,Functions,0.35
+619,42,Basic Data Science,24,Control Structures,0.17
+972,47,Intermediate Statistics,35,Control Structures,0.21
+284,45,Advanced Data Science,20,Functions,0.82
+464,53,Intermediate Python,13,Control Structures,0.71
+461,3,Advanced Data Science,15,Functions,0.45
+503,45,Basic Python,35,Pandas and NumPy,0.91
+438,86,Basic Python,26,Functions,0.17
+127,9,Introduction Data Science,16,Linear Regression,0.4
+863,8,Basic Statistics,7,Pandas and NumPy,0.65
+51,94,Advanced Data Science,34,Linear Regression,0.28
+226,50,Basic Machine Learning,39,Linear Regression,0.43
+652,31,Introduction Data Science,37,Pandas and NumPy,0.0
+957,7,Basic Python,14,Pandas and NumPy,0.87
+484,25,Intermediate Python,31,Functions,0.7
+609,42,Introduction Machine Learning,24,Linear Regression,0.72
+435,19,Introduction Statistics,19,Linear Regression,0.5
+844,97,Advanced Statistics,6,Variables and Data Types,0.27
+804,22,Advanced Statistics,48,Variables and Data Types,0.99
+611,87,Introduction Statistics,27,Functions,0.07
+788,50,Intermediate Python,36,Control Structures,0.69
+912,100,Advanced Python,41,Functions,0.43
+904,91,Advanced Python,46,Pandas and NumPy,0.18
+937,60,Intermediate Machine Learning,7,Pandas and NumPy,0.56
+170,71,Advanced Statistics,5,Variables and Data Types,0.6
+487,49,Intermediate Machine Learning,39,Pandas and NumPy,0.12
+35,3,Intermediate Statistics,39,Variables and Data Types,0.4
+630,44,Advanced Python,43,Control Structures,0.4
+503,49,Introduction Python,20,Linear Regression,0.84
+239,72,Introduction Data Science,14,Control Structures,0.66
+664,87,Advanced Python,11,Pandas and NumPy,0.46
+818,29,Intermediate Statistics,18,Functions,1.0
+656,69,Basic Statistics,15,Functions,0.76
+63,86,Basic Python,6,Variables and Data Types,0.93
+880,91,Basic Machine Learning,46,Functions,0.9
+823,46,Introduction Statistics,42,Functions,0.42
+342,57,Introduction Data Science,24,Linear Regression,0.59
+765,48,Basic Statistics,6,Variables and Data Types,0.37
+341,78,Advanced Statistics,42,Pandas and NumPy,0.39
+747,16,Basic Statistics,35,Control Structures,0.79
+613,90,Basic Data Science,43,Variables and Data Types,0.04
+805,10,Basic Statistics,15,Pandas and NumPy,0.95
+895,85,Advanced Python,31,Pandas and NumPy,0.38
+174,41,Intermediate Statistics,43,Control Structures,0.38
+412,65,Basic Data Science,17,Variables and Data Types,0.54
+911,42,Basic Python,9,Control Structures,0.26
+982,56,Intermediate Machine Learning,8,Pandas and NumPy,0.18
+513,92,Intermediate Machine Learning,38,Control Structures,0.52
+485,10,Introduction Statistics,12,Control Structures,0.44
+339,37,Intermediate Statistics,8,Control Structures,0.42
+192,54,Introduction Machine Learning,28,Linear Regression,0.23
+246,35,Advanced Statistics,46,Variables and Data Types,0.98
+868,41,Basic Machine Learning,45,Linear Regression,0.48
+77,33,Basic Data Science,32,Pandas and NumPy,0.72
+193,9,Introduction Machine Learning,22,Pandas and NumPy,0.69
+306,9,Introduction Python,49,Variables and Data Types,0.22
+64,65,Intermediate Python,25,Variables and Data Types,0.98
+35,42,Intermediate Python,40,Pandas and NumPy,0.83
+50,40,Advanced Machine Learning,46,Control Structures,0.86
+193,66,Basic Machine Learning,49,Pandas and NumPy,0.36
+249,35,Basic Data Science,20,Control Structures,0.1
+723,64,Intermediate Data Science,16,Control Structures,0.68
+304,98,Introduction Python,39,Pandas and NumPy,0.82
+332,33,Introduction Data Science,23,Pandas and NumPy,0.46
+979,14,Intermediate Data Science,25,Linear Regression,0.17
+359,18,Basic Statistics,33,Functions,0.5
+563,52,Introduction Data Science,18,Control Structures,0.83
+493,33,Intermediate Machine Learning,9,Variables and Data Types,0.13
+566,24,Basic Machine Learning,6,Variables and Data Types,0.04
+802,41,Intermediate Data Science,1,Linear Regression,0.52
+948,10,Basic Machine Learning,8,Linear Regression,0.53
+886,28,Basic Python,13,Variables and Data Types,1.0
+739,71,Advanced Statistics,17,Variables and Data Types,0.36
+260,35,Advanced Machine Learning,24,Linear Regression,0.65
+696,39,Introduction Data Science,40,Variables and Data Types,0.05
+210,64,Intermediate Statistics,23,Functions,0.47
+508,74,Advanced Python,49,Linear Regression,0.28
+654,22,Basic Data Science,37,Control Structures,0.79
+110,11,Basic Python,27,Functions,0.27
+365,50,Introduction Python,1,Variables and Data Types,0.01
+884,9,Intermediate Statistics,11,Pandas and NumPy,0.51
+788,87,Introduction Python,22,Linear Regression,0.81
+990,17,Advanced Machine Learning,40,Linear Regression,0.51
+756,79,Basic Statistics,12,Functions,0.44
+329,12,Basic Python,25,Pandas and NumPy,0.57
+734,80,Introduction Data Science,43,Control Structures,0.04
+568,63,Introduction Data Science,30,Variables and Data Types,0.77
+134,15,Introduction Statistics,20,Functions,0.34
+193,66,Intermediate Statistics,48,Control Structures,0.94
+241,79,Basic Machine Learning,48,Control Structures,0.18
+832,32,Intermediate Statistics,12,Pandas and NumPy,0.2
+352,88,Introduction Python,23,Control Structures,0.86
+184,97,Introduction Statistics,50,Pandas and NumPy,0.28
+539,57,Introduction Statistics,35,Variables and Data Types,0.24
+903,45,Advanced Machine Learning,38,Control Structures,0.74
+857,1,Advanced Machine Learning,46,Variables and Data Types,0.2
+313,28,Advanced Python,13,Linear Regression,1.0
+77,6,Introduction Python,48,Functions,0.29
+936,82,Basic Machine Learning,44,Pandas and NumPy,0.56
+164,94,Intermediate Python,21,Control Structures,0.38
+729,27,Advanced Machine Learning,28,Functions,0.71
+36,38,Advanced Statistics,42,Control Structures,0.72
+778,88,Advanced Python,11,Linear Regression,0.19
+441,77,Basic Statistics,22,Variables and Data Types,0.99
+192,3,Introduction Machine Learning,27,Variables and Data Types,0.21
+211,66,Advanced Python,34,Control Structures,0.14
+145,35,Advanced Statistics,33,Pandas and NumPy,0.15
+908,98,Basic Data Science,27,Functions,0.49
+287,10,Advanced Python,30,Linear Regression,0.83
+567,27,Basic Statistics,18,Control Structures,0.37
+849,77,Introduction Python,42,Linear Regression,0.63
+957,13,Intermediate Machine Learning,13,Pandas and NumPy,0.78
+13,14,Intermediate Machine Learning,33,Pandas and NumPy,0.41
+541,72,Intermediate Python,46,Functions,0.33
+877,29,Advanced Machine Learning,27,Functions,0.06
+800,84,Introduction Data Science,17,Variables and Data Types,0.2
+187,24,Advanced Python,28,Control Structures,0.16
+141,22,Intermediate Python,9,Variables and Data Types,0.06
+835,99,Introduction Statistics,46,Pandas and NumPy,0.56
+67,29,Introduction Python,9,Functions,0.65
+270,44,Basic Data Science,24,Functions,0.49
+547,48,Basic Machine Learning,21,Pandas and NumPy,0.4
+623,90,Advanced Statistics,13,Pandas and NumPy,0.76
+53,29,Introduction Statistics,27,Functions,0.44
+491,99,Introduction Python,13,Control Structures,0.33
+99,92,Advanced Data Science,7,Pandas and NumPy,0.13
+647,63,Intermediate Statistics,19,Linear Regression,0.47
+842,78,Basic Statistics,27,Variables and Data Types,0.78
+175,28,Advanced Data Science,46,Pandas and NumPy,0.6
+626,9,Intermediate Python,50,Variables and Data Types,0.59
+764,61,Intermediate Machine Learning,8,Linear Regression,0.29
+293,19,Advanced Data Science,17,Functions,0.42
+457,70,Basic Python,22,Control Structures,0.24
+869,59,Advanced Machine Learning,48,Variables and Data Types,0.49
+832,84,Introduction Python,34,Functions,0.4
+82,33,Intermediate Python,32,Variables and Data Types,0.47
+515,30,Intermediate Statistics,23,Control Structures,0.34
+573,1,Basic Python,45,Control Structures,0.84
+336,71,Intermediate Python,46,Linear Regression,0.1
+466,36,Intermediate Data Science,41,Variables and Data Types,0.53
+885,61,Introduction Python,42,Variables and Data Types,0.53
+153,96,Introduction Statistics,3,Pandas and NumPy,0.26
+756,71,Introduction Machine Learning,36,Variables and Data Types,0.65
+172,36,Basic Python,24,Pandas and NumPy,0.7
+103,27,Introduction Data Science,23,Functions,0.44
+605,3,Introduction Statistics,14,Variables and Data Types,0.56
+901,15,Intermediate Data Science,1,Pandas and NumPy,0.57
+529,74,Basic Data Science,22,Variables and Data Types,0.33
+143,60,Intermediate Statistics,40,Variables and Data Types,0.19
+302,43,Intermediate Machine Learning,32,Control Structures,0.81
+340,91,Advanced Python,28,Linear Regression,0.89
+426,51,Basic Python,12,Variables and Data Types,0.67
+290,92,Introduction Python,47,Pandas and NumPy,0.72
+606,58,Advanced Statistics,6,Linear Regression,0.84
+219,72,Basic Data Science,6,Pandas and NumPy,0.83
+315,68,Advanced Python,46,Control Structures,0.39
+812,65,Intermediate Machine Learning,32,Control Structures,0.82
+707,12,Introduction Statistics,10,Variables and Data Types,0.58
+241,82,Advanced Machine Learning,30,Functions,0.29
+744,75,Introduction Data Science,24,Linear Regression,0.99
+175,93,Advanced Machine Learning,48,Linear Regression,0.2
+932,14,Intermediate Machine Learning,4,Linear Regression,0.84
+94,76,Advanced Data Science,10,Functions,0.09
+42,32,Introduction Python,50,Functions,0.12
+733,61,Advanced Statistics,18,Pandas and NumPy,0.1
+119,68,Basic Python,30,Functions,0.18
+550,64,Introduction Python,13,Pandas and NumPy,0.58
+923,25,Introduction Statistics,12,Pandas and NumPy,0.54
+282,52,Introduction Statistics,2,Variables and Data Types,0.89
+798,15,Introduction Machine Learning,31,Control Structures,0.16
+414,100,Intermediate Machine Learning,41,Linear Regression,0.39
+119,66,Intermediate Python,17,Pandas and NumPy,0.03
+897,2,Basic Data Science,9,Functions,0.39
+244,85,Intermediate Data Science,21,Linear Regression,0.44
+663,83,Basic Python,6,Control Structures,0.69
+375,30,Introduction Python,17,Control Structures,0.41
+145,52,Advanced Python,44,Functions,0.57
+508,6,Advanced Python,10,Variables and Data Types,0.1
+977,70,Introduction Python,11,Variables and Data Types,0.92
+744,68,Intermediate Machine Learning,35,Linear Regression,0.09
+325,77,Intermediate Data Science,21,Pandas and NumPy,0.87
+640,58,Intermediate Statistics,4,Variables and Data Types,0.44
+518,47,Basic Python,20,Variables and Data Types,0.94
+988,46,Introduction Statistics,18,Control Structures,0.5
+427,22,Intermediate Python,42,Pandas and NumPy,0.8
+915,39,Introduction Data Science,19,Variables and Data Types,0.16
+98,33,Basic Statistics,20,Control Structures,0.71
+608,40,Basic Python,4,Control Structures,0.61
+865,78,Advanced Machine Learning,48,Pandas and NumPy,0.0
+934,71,Intermediate Data Science,30,Control Structures,0.64
+98,24,Intermediate Statistics,37,Pandas and NumPy,0.04
+715,31,Basic Data Science,4,Control Structures,0.05
+630,98,Intermediate Data Science,16,Pandas and NumPy,0.37
+807,73,Intermediate Data Science,36,Linear Regression,0.42
+718,17,Advanced Data Science,2,Pandas and NumPy,0.38
+518,96,Introduction Machine Learning,31,Functions,0.39
+620,40,Basic Machine Learning,10,Pandas and NumPy,0.01
+249,5,Advanced Data Science,47,Variables and Data Types,0.48
+56,16,Advanced Python,30,Pandas and NumPy,0.53
+921,22,Advanced Statistics,21,Functions,0.41
+637,34,Basic Python,34,Pandas and NumPy,0.42
+95,6,Intermediate Statistics,17,Control Structures,0.65
+516,31,Basic Data Science,20,Pandas and NumPy,0.35
+607,59,Basic Statistics,17,Functions,1.0
+313,82,Intermediate Data Science,25,Linear Regression,0.43
+590,85,Intermediate Statistics,43,Linear Regression,0.78
+76,98,Introduction Machine Learning,25,Linear Regression,0.54
+712,60,Basic Machine Learning,9,Control Structures,0.92
+493,14,Intermediate Machine Learning,44,Pandas and NumPy,0.49
+82,98,Advanced Data Science,34,Linear Regression,0.57
+94,45,Intermediate Python,46,Variables and Data Types,0.58
+932,46,Introduction Python,48,Control Structures,0.82
+856,55,Advanced Statistics,20,Variables and Data Types,0.59
+779,2,Intermediate Data Science,35,Linear Regression,0.04
+839,32,Introduction Data Science,14,Control Structures,0.48
+729,77,Intermediate Machine Learning,17,Variables and Data Types,0.92
+374,88,Introduction Data Science,25,Linear Regression,0.27
+795,24,Advanced Machine Learning,26,Pandas and NumPy,0.97
+672,51,Intermediate Python,34,Variables and Data Types,0.59
+24,47,Basic Statistics,7,Variables and Data Types,0.26
+457,61,Introduction Statistics,18,Linear Regression,0.12
+843,39,Introduction Data Science,42,Linear Regression,0.83
+529,60,Introduction Python,48,Variables and Data Types,0.91
+508,52,Basic Machine Learning,21,Functions,0.05
+487,65,Intermediate Machine Learning,2,Control Structures,0.91
+188,36,Introduction Statistics,28,Functions,0.45
+407,22,Intermediate Python,18,Control Structures,0.41
+302,89,Basic Machine Learning,7,Functions,0.54
+44,82,Advanced Statistics,23,Functions,0.39
+369,27,Basic Python,16,Functions,0.81
+220,38,Advanced Statistics,8,Control Structures,0.33
+535,32,Advanced Python,28,Pandas and NumPy,0.97
+373,72,Advanced Python,37,Linear Regression,0.89
+337,3,Introduction Machine Learning,34,Variables and Data Types,0.4
+930,36,Basic Statistics,36,Pandas and NumPy,0.48
+69,7,Advanced Python,15,Linear Regression,0.58
+958,49,Basic Python,15,Linear Regression,0.05
+294,73,Advanced Statistics,39,Control Structures,0.62
+628,26,Basic Machine Learning,48,Variables and Data Types,0.41
+776,97,Advanced Python,49,Functions,0.81
+738,52,Intermediate Data Science,34,Functions,0.39
+683,99,Basic Python,45,Linear Regression,0.51
+281,69,Intermediate Machine Learning,27,Control Structures,0.22
+560,79,Intermediate Statistics,11,Pandas and NumPy,0.7
+976,78,Intermediate Data Science,42,Functions,0.68
+829,100,Introduction Python,43,Control Structures,0.17
+408,36,Basic Statistics,8,Functions,0.65
+887,79,Basic Python,22,Variables and Data Types,0.45
+503,56,Intermediate Machine Learning,13,Variables and Data Types,0.51
+839,75,Advanced Statistics,8,Control Structures,0.4
+383,63,Advanced Data Science,12,Functions,0.0
+914,87,Basic Statistics,29,Functions,0.57
+419,58,Advanced Python,7,Variables and Data Types,0.26
+824,53,Advanced Machine Learning,32,Variables and Data Types,1.0
+146,54,Intermediate Machine Learning,50,Variables and Data Types,0.12
+146,92,Basic Data Science,46,Variables and Data Types,0.9
+651,50,Advanced Data Science,22,Control Structures,0.28
+873,14,Basic Data Science,45,Variables and Data Types,0.96
+125,13,Intermediate Python,40,Functions,0.71
+87,16,Introduction Python,50,Pandas and NumPy,0.73
+883,74,Basic Python,13,Control Structures,0.2
+444,13,Introduction Data Science,43,Pandas and NumPy,0.96
+184,19,Basic Statistics,27,Variables and Data Types,0.11
+593,4,Basic Python,22,Control Structures,0.07
+402,51,Introduction Statistics,42,Pandas and NumPy,0.72
+401,70,Basic Statistics,10,Control Structures,0.75
+639,95,Basic Machine Learning,15,Functions,0.98
+198,42,Advanced Python,40,Linear Regression,0.02
+387,81,Advanced Data Science,44,Pandas and NumPy,0.85
+682,16,Intermediate Machine Learning,8,Variables and Data Types,0.38
+397,43,Advanced Python,15,Pandas and NumPy,0.79
+487,49,Intermediate Python,14,Pandas and NumPy,0.36
+967,35,Advanced Machine Learning,38,Variables and Data Types,0.29
+972,94,Introduction Machine Learning,44,Functions,0.87
+855,73,Intermediate Data Science,48,Functions,0.98
+429,53,Intermediate Statistics,49,Linear Regression,0.59
+422,62,Basic Data Science,5,Control Structures,0.54
+701,67,Advanced Data Science,8,Pandas and NumPy,1.0
+239,12,Basic Data Science,25,Pandas and NumPy,0.24
+967,92,Basic Python,21,Linear Regression,0.21
+288,21,Basic Machine Learning,5,Linear Regression,0.61
+433,89,Intermediate Statistics,40,Pandas and NumPy,0.27
+271,46,Basic Statistics,40,Control Structures,0.98
+734,5,Basic Machine Learning,22,Linear Regression,0.65
+458,61,Introduction Python,40,Control Structures,0.86
+373,76,Advanced Machine Learning,41,Functions,0.85
+839,92,Advanced Python,8,Control Structures,0.57
+800,76,Introduction Python,9,Linear Regression,0.58
+469,33,Introduction Python,9,Linear Regression,0.18
+274,57,Advanced Data Science,48,Control Structures,0.06
+250,58,Introduction Data Science,36,Variables and Data Types,1.0
+779,13,Intermediate Python,31,Control Structures,0.34
+375,34,Introduction Python,46,Functions,0.94
+932,98,Advanced Data Science,21,Variables and Data Types,0.95
+424,72,Intermediate Data Science,22,Variables and Data Types,0.8
+65,72,Advanced Data Science,27,Pandas and NumPy,0.77
+35,98,Introduction Statistics,12,Control Structures,0.65
+539,46,Introduction Python,36,Control Structures,0.76
+634,44,Introduction Machine Learning,30,Control Structures,0.15
+702,26,Advanced Machine Learning,12,Pandas and NumPy,0.33
+162,75,Advanced Statistics,35,Variables and Data Types,0.25
+735,64,Introduction Data Science,24,Control Structures,0.99
+54,14,Advanced Machine Learning,31,Variables and Data Types,0.45
+166,55,Introduction Python,18,Linear Regression,0.67
+137,5,Basic Statistics,21,Functions,0.19
+156,17,Advanced Data Science,33,Functions,0.22
+182,21,Basic Statistics,10,Variables and Data Types,0.92
+98,68,Intermediate Statistics,6,Control Structures,0.45
+29,67,Introduction Machine Learning,4,Linear Regression,0.96
+223,28,Introduction Machine Learning,35,Linear Regression,0.54
+384,28,Basic Machine Learning,9,Linear Regression,0.59
+211,38,Introduction Machine Learning,50,Control Structures,0.43
+779,41,Introduction Statistics,34,Functions,0.54
+294,49,Intermediate Machine Learning,21,Control Structures,0.43
+344,58,Basic Data Science,31,Pandas and NumPy,0.66
+79,60,Basic Python,23,Functions,1.0
+649,9,Basic Python,32,Variables and Data Types,0.12
+592,17,Introduction Statistics,28,Variables and Data Types,0.81
+585,36,Introduction Data Science,12,Control Structures,0.34
+289,14,Basic Statistics,37,Linear Regression,0.6
+107,22,Introduction Statistics,20,Variables and Data Types,0.44
+312,52,Basic Data Science,35,Pandas and NumPy,0.33
+469,54,Advanced Data Science,34,Functions,0.24
+17,81,Basic Python,36,Linear Regression,0.17
+396,32,Basic Python,29,Pandas and NumPy,0.63
+287,66,Introduction Python,42,Functions,0.12
+765,40,Introduction Statistics,9,Linear Regression,0.08
+137,28,Introduction Python,37,Control Structures,0.63
+976,90,Introduction Python,4,Linear Regression,0.64
+485,58,Intermediate Python,13,Variables and Data Types,0.52
+52,93,Introduction Statistics,38,Control Structures,0.92
+841,82,Intermediate Statistics,33,Pandas and NumPy,0.12
+704,51,Advanced Machine Learning,3,Pandas and NumPy,0.21
+573,71,Introduction Machine Learning,30,Functions,0.96
+710,97,Advanced Python,11,Functions,0.26
+852,11,Intermediate Statistics,45,Linear Regression,0.36
+122,6,Intermediate Data Science,13,Pandas and NumPy,0.6
+634,13,Introduction Machine Learning,9,Functions,0.86
+160,77,Basic Data Science,4,Functions,0.16
+20,28,Advanced Machine Learning,17,Pandas and NumPy,0.46
+656,28,Introduction Python,44,Functions,0.69
+75,45,Advanced Machine Learning,41,Control Structures,0.46
+397,49,Advanced Data Science,1,Linear Regression,0.58
+747,19,Introduction Data Science,35,Linear Regression,0.01
+721,27,Advanced Python,23,Variables and Data Types,0.06
+691,90,Basic Machine Learning,32,Pandas and NumPy,0.97
+698,93,Intermediate Python,8,Control Structures,0.48
+247,39,Advanced Data Science,40,Variables and Data Types,0.51
+352,48,Advanced Statistics,17,Variables and Data Types,0.53
+710,10,Introduction Data Science,36,Linear Regression,0.14
+349,38,Basic Statistics,30,Linear Regression,0.8
+740,21,Introduction Python,9,Pandas and NumPy,0.99
+622,90,Intermediate Python,17,Functions,0.96
+222,65,Intermediate Python,35,Pandas and NumPy,0.79
+740,51,Advanced Python,36,Variables and Data Types,0.97
+391,60,Introduction Statistics,35,Control Structures,0.19
+220,84,Advanced Statistics,34,Pandas and NumPy,0.23
+682,91,Advanced Python,15,Control Structures,0.36
+676,20,Introduction Statistics,31,Variables and Data Types,0.53
+448,71,Intermediate Data Science,42,Variables and Data Types,0.17
+418,1,Advanced Data Science,49,Linear Regression,0.99
+178,77,Intermediate Machine Learning,11,Control Structures,0.55
+998,31,Basic Statistics,48,Functions,0.4
+941,34,Introduction Data Science,16,Variables and Data Types,0.56
+220,6,Intermediate Data Science,20,Functions,0.06
+938,12,Introduction Data Science,37,Pandas and NumPy,0.9
+665,22,Intermediate Statistics,24,Control Structures,0.22
+457,54,Introduction Statistics,9,Pandas and NumPy,0.72
+941,57,Advanced Data Science,41,Functions,0.18
+502,94,Basic Data Science,33,Pandas and NumPy,0.41
+474,89,Basic Python,17,Linear Regression,0.89
+589,32,Introduction Python,13,Control Structures,0.22
+952,51,Basic Data Science,31,Control Structures,0.06
+231,26,Basic Statistics,35,Pandas and NumPy,0.39
+139,14,Basic Data Science,10,Variables and Data Types,0.94
+57,83,Advanced Statistics,27,Linear Regression,0.71
+893,38,Basic Python,25,Functions,0.32
+730,77,Introduction Python,24,Control Structures,0.7
+456,1,Advanced Statistics,38,Pandas and NumPy,0.69
+191,80,Intermediate Machine Learning,7,Functions,0.08
+525,20,Introduction Data Science,4,Linear Regression,0.19
+820,87,Advanced Data Science,46,Functions,0.89
+998,18,Advanced Data Science,37,Variables and Data Types,0.95
+942,2,Basic Python,15,Control Structures,0.62
+535,76,Basic Statistics,42,Control Structures,0.68
+44,52,Intermediate Machine Learning,45,Control Structures,0.21
+571,40,Introduction Statistics,26,Functions,0.58
+917,87,Basic Data Science,26,Control Structures,0.67
+649,100,Introduction Statistics,33,Linear Regression,0.06
+947,42,Basic Python,28,Pandas and NumPy,0.29
+1,98,Introduction Statistics,44,Control Structures,0.7
+489,19,Basic Machine Learning,45,Functions,0.44
+405,73,Intermediate Statistics,2,Linear Regression,0.26
+639,17,Introduction Data Science,37,Functions,0.15
+551,11,Advanced Data Science,17,Variables and Data Types,0.45
+252,93,Intermediate Statistics,47,Control Structures,0.13
+791,87,Basic Statistics,22,Variables and Data Types,0.55
+702,52,Advanced Statistics,26,Functions,0.05
+588,89,Basic Machine Learning,30,Control Structures,0.56
+83,17,Intermediate Python,38,Functions,0.79
+46,1,Advanced Data Science,42,Functions,0.96
+584,91,Intermediate Python,43,Control Structures,0.35
+344,74,Intermediate Statistics,5,Variables and Data Types,0.59
+538,85,Advanced Python,27,Control Structures,0.65
+515,30,Introduction Statistics,50,Linear Regression,0.47
+19,52,Intermediate Statistics,33,Variables and Data Types,0.94
+792,41,Advanced Data Science,31,Linear Regression,0.36
+951,22,Advanced Statistics,3,Linear Regression,0.62
+762,100,Basic Statistics,42,Variables and Data Types,0.93
+402,28,Introduction Machine Learning,5,Variables and Data Types,0.01
+290,85,Advanced Python,41,Control Structures,0.33
+822,55,Intermediate Machine Learning,7,Variables and Data Types,0.8
+31,75,Advanced Python,31,Linear Regression,0.61
+399,31,Introduction Python,13,Variables and Data Types,0.38
+154,82,Basic Statistics,33,Variables and Data Types,0.64
+628,96,Intermediate Machine Learning,3,Linear Regression,0.33
+240,14,Basic Data Science,17,Linear Regression,0.26
+369,11,Basic Data Science,13,Linear Regression,0.62
+627,63,Intermediate Python,36,Variables and Data Types,0.46
+375,81,Introduction Machine Learning,15,Linear Regression,0.51
+947,28,Introduction Python,37,Pandas and NumPy,0.76
+945,90,Advanced Python,16,Functions,0.94
+464,38,Introduction Machine Learning,2,Linear Regression,0.91
+656,2,Basic Python,18,Functions,0.06
+989,69,Introduction Data Science,16,Variables and Data Types,0.32
+143,37,Advanced Statistics,29,Control Structures,0.34
+784,3,Introduction Data Science,24,Linear Regression,0.65
+728,19,Intermediate Python,26,Control Structures,0.59
+822,21,Introduction Statistics,7,Control Structures,0.96
+818,59,Introduction Data Science,20,Linear Regression,0.04
+679,60,Introduction Data Science,48,Pandas and NumPy,0.29
+745,66,Intermediate Data Science,18,Linear Regression,0.75
+375,25,Intermediate Python,31,Linear Regression,0.8
+301,41,Introduction Python,36,Functions,0.18
+880,30,Advanced Data Science,35,Functions,0.99
+663,27,Advanced Statistics,25,Variables and Data Types,0.92
+375,24,Basic Machine Learning,27,Variables and Data Types,0.09
+817,98,Advanced Python,3,Control Structures,0.23
+66,40,Advanced Python,3,Variables and Data Types,0.41
+377,20,Introduction Data Science,36,Linear Regression,0.56
+165,98,Advanced Statistics,33,Control Structures,0.3
+489,67,Introduction Python,21,Pandas and NumPy,0.94
+33,94,Introduction Statistics,36,Pandas and NumPy,0.25
+687,80,Advanced Machine Learning,29,Functions,0.72
+955,100,Advanced Python,48,Functions,0.13
+367,48,Intermediate Machine Learning,1,Variables and Data Types,0.07
+77,41,Intermediate Machine Learning,12,Functions,0.29
+594,75,Advanced Python,12,Functions,0.09
+820,69,Advanced Machine Learning,12,Pandas and NumPy,0.09
+371,15,Basic Machine Learning,44,Variables and Data Types,0.49
+654,46,Introduction Machine Learning,49,Linear Regression,0.9
+343,5,Intermediate Python,13,Pandas and NumPy,0.87
+841,17,Advanced Statistics,7,Linear Regression,0.65
+408,18,Introduction Python,39,Variables and Data Types,0.61
+557,11,Intermediate Data Science,35,Pandas and NumPy,0.47
+767,57,Intermediate Python,5,Control Structures,0.69
+460,52,Introduction Machine Learning,14,Variables and Data Types,0.24
+246,81,Intermediate Statistics,23,Variables and Data Types,0.2
+14,7,Advanced Data Science,41,Variables and Data Types,0.3
+128,83,Intermediate Machine Learning,22,Pandas and NumPy,0.95
+53,15,Introduction Machine Learning,26,Pandas and NumPy,0.05
+441,88,Intermediate Statistics,30,Linear Regression,0.89
+238,32,Advanced Machine Learning,19,Linear Regression,0.72
+457,56,Intermediate Machine Learning,23,Linear Regression,0.62
+771,63,Advanced Statistics,43,Functions,0.68
+957,34,Basic Machine Learning,41,Functions,0.36
+89,67,Basic Data Science,49,Linear Regression,0.74
+774,14,Basic Data Science,15,Pandas and NumPy,0.59
+698,52,Introduction Data Science,30,Pandas and NumPy,0.79
+50,92,Basic Data Science,5,Pandas and NumPy,0.76
+881,38,Advanced Python,40,Functions,0.05
+113,92,Introduction Machine Learning,33,Pandas and NumPy,0.25
+110,38,Introduction Statistics,43,Functions,0.29
+165,2,Advanced Data Science,47,Variables and Data Types,0.79
+733,68,Advanced Statistics,3,Variables and Data Types,0.68
+969,74,Basic Python,41,Variables and Data Types,0.35
+546,80,Intermediate Statistics,8,Variables and Data Types,0.16
+482,12,Introduction Data Science,35,Control Structures,0.69
+744,2,Introduction Data Science,31,Linear Regression,0.03
+20,44,Intermediate Python,32,Variables and Data Types,0.03
+878,90,Introduction Machine Learning,4,Linear Regression,0.02
+519,61,Intermediate Python,43,Pandas and NumPy,0.44
+452,64,Basic Data Science,8,Functions,0.84
+454,67,Advanced Statistics,16,Pandas and NumPy,0.04
+133,11,Intermediate Machine Learning,32,Variables and Data Types,0.78
+665,53,Intermediate Statistics,22,Pandas and NumPy,0.46
+751,94,Basic Machine Learning,48,Functions,0.86
+74,39,Advanced Machine Learning,43,Control Structures,0.17
+308,19,Basic Data Science,33,Functions,0.61
+11,1,Advanced Machine Learning,18,Linear Regression,0.26
+456,51,Basic Python,32,Variables and Data Types,0.88
+766,99,Intermediate Python,31,Pandas and NumPy,0.21
+77,8,Basic Python,25,Pandas and NumPy,0.32
+292,20,Introduction Data Science,44,Control Structures,0.68
+146,86,Basic Statistics,19,Functions,0.94
+498,40,Introduction Python,36,Control Structures,0.09
+90,68,Advanced Statistics,26,Linear Regression,0.75
+690,36,Intermediate Machine Learning,19,Functions,0.63
+865,86,Advanced Data Science,38,Pandas and NumPy,0.08
+62,37,Intermediate Python,38,Functions,0.68
+524,71,Basic Machine Learning,50,Variables and Data Types,0.24
+292,17,Intermediate Data Science,33,Control Structures,0.2
+827,60,Intermediate Statistics,22,Pandas and NumPy,0.23
+4,65,Advanced Data Science,5,Linear Regression,0.72
+111,50,Basic Statistics,34,Variables and Data Types,0.72
+826,42,Basic Statistics,1,Pandas and NumPy,0.64
+318,58,Basic Machine Learning,38,Pandas and NumPy,0.08
+987,3,Introduction Statistics,36,Control Structures,0.38
+654,47,Basic Python,11,Pandas and NumPy,0.5
+474,42,Introduction Python,1,Linear Regression,0.81
+543,56,Intermediate Data Science,4,Functions,0.46
+42,62,Introduction Python,38,Functions,0.47
+831,96,Intermediate Data Science,36,Pandas and NumPy,0.54
+639,80,Basic Python,11,Pandas and NumPy,0.43
+258,37,Advanced Machine Learning,49,Functions,0.91
+8,97,Intermediate Machine Learning,38,Pandas and NumPy,0.95
+852,51,Advanced Machine Learning,18,Functions,0.4
+561,14,Basic Statistics,50,Control Structures,0.75
+250,61,Advanced Data Science,33,Functions,0.32
+486,43,Intermediate Python,27,Control Structures,0.04
+640,14,Basic Data Science,25,Control Structures,0.79
+313,29,Advanced Machine Learning,16,Pandas and NumPy,0.03
+155,89,Introduction Python,4,Variables and Data Types,0.82
+288,57,Basic Statistics,1,Pandas and NumPy,0.12
+295,63,Introduction Data Science,13,Control Structures,0.45
+104,36,Introduction Data Science,29,Pandas and NumPy,0.62
+849,74,Introduction Statistics,8,Pandas and NumPy,0.83
+796,37,Introduction Python,19,Variables and Data Types,0.4
+91,50,Advanced Statistics,3,Control Structures,0.36
+343,71,Basic Python,43,Pandas and NumPy,0.43
+744,85,Basic Machine Learning,31,Control Structures,0.9
+388,54,Introduction Statistics,39,Functions,0.83
+156,40,Advanced Python,17,Pandas and NumPy,0.43
+600,67,Basic Data Science,6,Variables and Data Types,0.09
+727,41,Introduction Machine Learning,21,Control Structures,0.26
+937,31,Intermediate Statistics,35,Variables and Data Types,0.28
+536,14,Advanced Python,47,Control Structures,0.17
+951,6,Introduction Data Science,33,Linear Regression,0.98
+5,54,Introduction Python,40,Control Structures,0.66
+517,87,Intermediate Data Science,19,Functions,0.59
+395,43,Basic Python,50,Variables and Data Types,0.89
+631,9,Intermediate Python,30,Pandas and NumPy,0.14
+341,63,Advanced Statistics,37,Functions,0.99
+60,45,Intermediate Statistics,42,Functions,0.21
+612,33,Intermediate Machine Learning,1,Variables and Data Types,0.08
+86,53,Advanced Data Science,48,Variables and Data Types,0.16
+311,10,Basic Python,47,Functions,0.96
+142,38,Advanced Python,16,Control Structures,0.9
+366,90,Introduction Statistics,33,Control Structures,0.49
+470,39,Intermediate Data Science,3,Linear Regression,0.29
+193,74,Introduction Statistics,42,Linear Regression,0.67
+954,10,Introduction Data Science,47,Linear Regression,0.56
+477,71,Introduction Machine Learning,49,Functions,0.23
+535,46,Introduction Python,4,Functions,0.56
+975,61,Introduction Data Science,33,Control Structures,0.55
+212,93,Basic Data Science,44,Pandas and NumPy,0.85
+57,27,Basic Python,38,Linear Regression,0.37
+940,9,Introduction Python,40,Linear Regression,0.17
+278,48,Intermediate Python,44,Functions,0.76
+351,52,Basic Machine Learning,8,Control Structures,0.01
+237,1,Introduction Machine Learning,14,Control Structures,0.27
+112,38,Advanced Machine Learning,47,Control Structures,0.2
+102,36,Introduction Statistics,32,Pandas and NumPy,0.61
+271,2,Basic Statistics,32,Linear Regression,0.5
+596,57,Advanced Machine Learning,22,Pandas and NumPy,0.96
+701,25,Advanced Statistics,13,Pandas and NumPy,0.51
+418,5,Introduction Python,37,Functions,0.69
+951,13,Intermediate Data Science,13,Linear Regression,0.47
+86,7,Introduction Data Science,33,Linear Regression,0.35
+515,72,Intermediate Machine Learning,22,Linear Regression,0.99
+331,29,Advanced Python,28,Pandas and NumPy,0.72
+383,77,Basic Statistics,37,Control Structures,0.4
+839,61,Advanced Machine Learning,20,Variables and Data Types,0.91
+693,59,Advanced Machine Learning,13,Pandas and NumPy,0.07
+42,85,Advanced Machine Learning,11,Pandas and NumPy,0.49
+696,36,Advanced Statistics,16,Pandas and NumPy,0.64
+947,63,Basic Statistics,7,Variables and Data Types,0.58
+31,100,Intermediate Statistics,22,Pandas and NumPy,0.46
+875,40,Basic Machine Learning,1,Pandas and NumPy,0.4
+71,76,Introduction Statistics,40,Functions,0.51
+938,79,Basic Statistics,19,Control Structures,0.94
+411,76,Basic Statistics,44,Linear Regression,0.16
+786,67,Advanced Python,49,Control Structures,0.26
+621,52,Basic Data Science,34,Functions,0.7
+144,85,Advanced Statistics,38,Functions,0.81
+715,19,Introduction Statistics,30,Pandas and NumPy,0.46
+759,42,Intermediate Data Science,39,Control Structures,0.23
+476,61,Advanced Statistics,44,Variables and Data Types,0.44
+400,32,Advanced Python,12,Functions,0.94
+528,11,Advanced Machine Learning,38,Linear Regression,0.36
+518,34,Introduction Data Science,39,Linear Regression,0.08
+802,24,Intermediate Machine Learning,10,Functions,0.91
+788,47,Advanced Python,28,Control Structures,0.18
+970,79,Basic Machine Learning,34,Functions,0.46
+214,46,Advanced Machine Learning,28,Functions,0.29
+337,28,Basic Python,4,Linear Regression,0.55
+544,71,Advanced Python,39,Functions,0.04
+32,100,Intermediate Machine Learning,22,Control Structures,0.59
+333,5,Basic Machine Learning,43,Functions,0.67
+480,69,Introduction Statistics,26,Functions,0.26
+233,39,Advanced Python,29,Linear Regression,0.74
+923,54,Basic Data Science,5,Linear Regression,0.15
+785,57,Introduction Statistics,40,Linear Regression,0.54
+608,55,Basic Python,11,Pandas and NumPy,0.3
+185,18,Advanced Python,27,Pandas and NumPy,0.62
+279,39,Advanced Python,10,Pandas and NumPy,0.5
+454,46,Introduction Data Science,44,Pandas and NumPy,0.81
+466,43,Introduction Data Science,15,Control Structures,0.07
+197,78,Introduction Statistics,3,Variables and Data Types,0.16
+81,5,Introduction Data Science,35,Control Structures,0.33
+713,92,Introduction Python,18,Linear Regression,0.9
+306,45,Introduction Data Science,19,Variables and Data Types,0.28
+425,39,Introduction Data Science,32,Variables and Data Types,0.79
+102,65,Introduction Data Science,19,Functions,0.51
+447,86,Advanced Machine Learning,48,Control Structures,0.74
+325,37,Introduction Machine Learning,17,Control Structures,0.25
+70,68,Advanced Statistics,46,Pandas and NumPy,0.37
+835,43,Introduction Statistics,32,Functions,0.7
+275,68,Basic Python,36,Pandas and NumPy,0.72
+88,74,Intermediate Machine Learning,21,Control Structures,0.16
+601,20,Introduction Machine Learning,23,Functions,0.65
+476,5,Advanced Machine Learning,14,Pandas and NumPy,0.45
+25,3,Intermediate Statistics,29,Variables and Data Types,0.84
+567,59,Introduction Machine Learning,19,Linear Regression,0.36
+848,82,Basic Data Science,5,Linear Regression,0.31
+925,14,Introduction Data Science,40,Linear Regression,0.12
+473,26,Advanced Statistics,9,Functions,0.44
+451,79,Advanced Data Science,41,Functions,0.03
+594,4,Introduction Machine Learning,36,Functions,0.79
+129,37,Introduction Statistics,16,Variables and Data Types,0.03
+491,5,Basic Statistics,20,Control Structures,0.26
+54,94,Basic Statistics,20,Functions,0.41
+308,14,Advanced Python,36,Control Structures,0.39
+762,13,Intermediate Data Science,25,Control Structures,0.19
+633,98,Intermediate Python,2,Linear Regression,0.84
+767,66,Introduction Python,10,Variables and Data Types,0.31
+359,65,Basic Python,2,Functions,0.31
+269,52,Basic Python,46,Variables and Data Types,0.05
+768,58,Introduction Data Science,1,Variables and Data Types,0.22
+576,58,Introduction Machine Learning,35,Functions,0.06
+494,26,Advanced Python,23,Functions,0.55
+795,10,Basic Statistics,26,Control Structures,0.16
+409,49,Introduction Machine Learning,15,Variables and Data Types,0.84
+585,80,Basic Statistics,18,Linear Regression,0.36
+618,15,Basic Machine Learning,23,Pandas and NumPy,0.2
+330,66,Basic Machine Learning,10,Control Structures,0.84
+314,7,Introduction Statistics,2,Control Structures,0.77
+330,1,Basic Python,2,Linear Regression,0.33
+772,57,Basic Data Science,22,Linear Regression,0.52
+200,4,Basic Machine Learning,42,Variables and Data Types,0.75
+667,96,Intermediate Data Science,33,Functions,0.73
+125,72,Advanced Machine Learning,6,Pandas and NumPy,0.4
+512,23,Introduction Machine Learning,31,Pandas and NumPy,0.24
+665,81,Introduction Data Science,23,Pandas and NumPy,0.37
+850,99,Introduction Data Science,16,Linear Regression,0.28
+590,3,Advanced Data Science,4,Functions,0.34
+168,18,Intermediate Statistics,9,Linear Regression,0.31
+343,80,Basic Statistics,30,Functions,0.84
+399,8,Basic Machine Learning,26,Functions,0.35
+115,10,Advanced Python,39,Pandas and NumPy,0.67
+228,26,Intermediate Python,30,Pandas and NumPy,0.61
+209,41,Intermediate Python,30,Pandas and NumPy,0.66
+173,43,Basic Python,9,Variables and Data Types,0.22
+537,58,Basic Data Science,30,Functions,0.55
+49,61,Basic Data Science,9,Linear Regression,0.51
+142,48,Intermediate Python,32,Control Structures,0.67
+172,20,Basic Statistics,42,Functions,0.91
+714,34,Introduction Statistics,50,Pandas and NumPy,0.68
+827,49,Advanced Machine Learning,41,Variables and Data Types,0.58
+100,88,Advanced Python,17,Variables and Data Types,0.05
+613,40,Advanced Data Science,39,Linear Regression,0.29
+366,95,Introduction Python,47,Functions,0.2
+779,74,Intermediate Data Science,25,Control Structures,0.9
+533,86,Basic Machine Learning,33,Pandas and NumPy,0.0
+228,40,Intermediate Statistics,19,Variables and Data Types,0.5
+879,78,Basic Statistics,1,Functions,0.98
+40,89,Basic Machine Learning,37,Control Structures,0.01
+491,63,Advanced Machine Learning,5,Variables and Data Types,0.64
+955,51,Advanced Python,28,Variables and Data Types,0.26
+613,100,Introduction Statistics,44,Variables and Data Types,0.23
+294,90,Introduction Statistics,48,Control Structures,0.13
+83,4,Basic Data Science,3,Pandas and NumPy,0.29
+889,1,Basic Python,44,Control Structures,0.27
+654,50,Intermediate Data Science,21,Linear Regression,0.85
+379,58,Basic Statistics,41,Linear Regression,0.03
+50,88,Intermediate Statistics,18,Variables and Data Types,0.06
+852,14,Advanced Statistics,45,Control Structures,0.27
+710,58,Advanced Python,29,Variables and Data Types,0.43
+415,12,Intermediate Data Science,27,Variables and Data Types,0.05
+319,8,Introduction Data Science,16,Linear Regression,0.63
+546,43,Intermediate Data Science,22,Functions,0.45
+309,17,Intermediate Machine Learning,17,Variables and Data Types,0.27
+432,87,Basic Statistics,15,Variables and Data Types,0.73
+111,49,Advanced Machine Learning,44,Pandas and NumPy,0.85
+127,71,Intermediate Python,1,Pandas and NumPy,0.04
+279,19,Introduction Statistics,13,Linear Regression,0.36
+973,96,Intermediate Statistics,39,Functions,0.44
+203,18,Intermediate Data Science,14,Functions,0.02
+248,66,Introduction Python,44,Variables and Data Types,0.6
+810,71,Intermediate Data Science,7,Control Structures,0.68
+173,75,Intermediate Machine Learning,48,Linear Regression,0.37
+701,54,Introduction Statistics,48,Functions,0.16
+18,42,Introduction Statistics,36,Linear Regression,0.0
+891,90,Intermediate Machine Learning,29,Functions,0.65
+48,35,Intermediate Machine Learning,50,Functions,0.81
+248,67,Intermediate Machine Learning,46,Linear Regression,0.76
+855,77,Introduction Python,43,Variables and Data Types,0.05
+303,6,Introduction Python,26,Linear Regression,0.98
+301,9,Introduction Data Science,2,Linear Regression,0.22
+720,68,Basic Python,33,Functions,0.81
+755,16,Basic Machine Learning,41,Control Structures,0.66
+474,26,Advanced Statistics,38,Pandas and NumPy,0.35
+863,30,Basic Machine Learning,32,Pandas and NumPy,0.63
+66,17,Intermediate Statistics,3,Linear Regression,0.74
+517,54,Intermediate Data Science,37,Pandas and NumPy,0.27
+182,58,Advanced Python,24,Linear Regression,0.62
+973,14,Intermediate Data Science,27,Functions,0.33
+384,45,Basic Machine Learning,15,Variables and Data Types,0.49
+683,27,Introduction Machine Learning,22,Control Structures,0.37
+750,22,Advanced Python,41,Control Structures,0.35
+961,32,Advanced Statistics,1,Functions,0.93
+19,6,Intermediate Machine Learning,3,Pandas and NumPy,0.13
+275,18,Introduction Data Science,29,Pandas and NumPy,0.52
+48,15,Introduction Machine Learning,33,Functions,0.2
+966,82,Basic Statistics,47,Variables and Data Types,0.35
+662,63,Basic Statistics,34,Control Structures,0.04
+314,24,Basic Data Science,13,Variables and Data Types,0.78
+306,5,Introduction Python,25,Control Structures,0.31
+630,71,Introduction Data Science,26,Linear Regression,0.11
+421,97,Intermediate Machine Learning,34,Pandas and NumPy,0.63
+452,4,Advanced Machine Learning,47,Variables and Data Types,0.14
+509,70,Intermediate Statistics,1,Control Structures,0.83
+736,62,Intermediate Machine Learning,15,Pandas and NumPy,0.02
+847,42,Basic Machine Learning,12,Pandas and NumPy,0.16
+764,62,Introduction Statistics,3,Variables and Data Types,0.99
+689,86,Intermediate Python,36,Control Structures,0.33
+685,81,Basic Statistics,48,Variables and Data Types,0.31
+589,73,Advanced Statistics,29,Linear Regression,0.12
+447,97,Advanced Machine Learning,47,Linear Regression,0.1
+12,44,Basic Python,8,Variables and Data Types,0.6
+530,49,Advanced Machine Learning,35,Functions,0.36
+543,45,Intermediate Python,39,Variables and Data Types,0.25
+991,24,Basic Statistics,44,Functions,0.35
+220,8,Basic Python,8,Control Structures,0.18
+41,48,Basic Machine Learning,49,Functions,0.1
+527,46,Introduction Python,9,Pandas and NumPy,0.12
+68,75,Introduction Statistics,19,Variables and Data Types,0.28
+496,40,Intermediate Machine Learning,28,Linear Regression,0.58
+999,71,Intermediate Statistics,31,Variables and Data Types,0.01
+591,35,Basic Machine Learning,3,Pandas and NumPy,0.66
+159,22,Intermediate Statistics,29,Linear Regression,0.98
+833,96,Basic Machine Learning,39,Functions,0.83
+774,23,Introduction Statistics,16,Linear Regression,0.57
+240,14,Advanced Machine Learning,1,Functions,0.73
+605,55,Advanced Data Science,31,Pandas and NumPy,0.98
+251,9,Introduction Python,24,Linear Regression,0.32
+827,43,Advanced Machine Learning,6,Pandas and NumPy,0.29
+306,26,Basic Statistics,50,Control Structures,0.98
+751,100,Intermediate Machine Learning,40,Functions,0.52
+88,44,Basic Data Science,8,Control Structures,0.12
+621,7,Introduction Python,7,Pandas and NumPy,0.18
+674,80,Introduction Statistics,32,Control Structures,0.68
+878,40,Introduction Statistics,17,Functions,0.11
+620,9,Introduction Data Science,45,Pandas and NumPy,0.54
+545,48,Basic Statistics,2,Functions,0.23
+675,81,Introduction Data Science,35,Control Structures,0.28
+345,11,Introduction Data Science,3,Pandas and NumPy,0.11
+130,4,Basic Statistics,16,Linear Regression,0.47
+307,64,Introduction Data Science,41,Pandas and NumPy,0.8
+121,91,Basic Data Science,19,Variables and Data Types,0.04
+721,41,Introduction Statistics,13,Functions,0.33
+188,58,Intermediate Python,16,Linear Regression,0.9
+408,52,Advanced Statistics,44,Linear Regression,0.45
+977,25,Basic Machine Learning,22,Variables and Data Types,0.7
+510,53,Basic Machine Learning,45,Variables and Data Types,0.19
+415,4,Basic Data Science,9,Linear Regression,0.47
+695,23,Introduction Python,49,Pandas and NumPy,0.37
+261,19,Basic Machine Learning,10,Variables and Data Types,0.57
+244,12,Intermediate Data Science,22,Pandas and NumPy,0.78
+679,41,Basic Statistics,42,Functions,0.06
+552,31,Basic Machine Learning,32,Control Structures,0.94
+340,82,Introduction Statistics,46,Functions,1.0
+644,43,Introduction Python,10,Linear Regression,0.52
+512,48,Advanced Machine Learning,50,Variables and Data Types,0.78
+804,93,Introduction Statistics,20,Pandas and NumPy,0.52
+374,6,Intermediate Machine Learning,23,Pandas and NumPy,0.45
+446,3,Advanced Data Science,30,Variables and Data Types,0.02
+493,61,Basic Machine Learning,21,Pandas and NumPy,0.78
+664,63,Introduction Machine Learning,1,Linear Regression,0.05
+363,23,Basic Python,6,Pandas and NumPy,0.73
+862,88,Advanced Python,47,Functions,0.68
+428,81,Basic Statistics,46,Linear Regression,0.8
+534,69,Advanced Machine Learning,6,Variables and Data Types,0.19
+764,65,Advanced Data Science,4,Linear Regression,0.46
+949,90,Introduction Machine Learning,30,Variables and Data Types,0.23
+793,25,Introduction Machine Learning,17,Variables and Data Types,0.82
+743,45,Basic Machine Learning,43,Linear Regression,0.59
+775,70,Intermediate Machine Learning,36,Variables and Data Types,0.05
+819,19,Intermediate Python,17,Pandas and NumPy,0.36
+126,28,Introduction Machine Learning,9,Functions,0.01
+868,36,Introduction Machine Learning,43,Variables and Data Types,0.26
+174,30,Intermediate Python,46,Control Structures,0.49
+700,83,Introduction Python,17,Pandas and NumPy,0.29
+136,19,Introduction Data Science,48,Pandas and NumPy,0.27
+580,53,Introduction Data Science,45,Linear Regression,0.31
+124,25,Basic Data Science,44,Linear Regression,0.46
+23,79,Advanced Python,48,Linear Regression,0.9
+964,22,Introduction Python,27,Variables and Data Types,0.08
+619,36,Intermediate Statistics,13,Control Structures,0.27
+954,83,Basic Machine Learning,42,Control Structures,0.95
+417,38,Advanced Python,46,Linear Regression,0.24
+377,78,Advanced Data Science,46,Variables and Data Types,0.34
+47,32,Intermediate Statistics,8,Pandas and NumPy,0.88
+908,58,Introduction Statistics,13,Pandas and NumPy,0.7
+327,32,Introduction Statistics,50,Linear Regression,0.68
+446,72,Advanced Statistics,11,Control Structures,0.04
+807,6,Intermediate Machine Learning,49,Linear Regression,0.65
+720,84,Intermediate Python,46,Control Structures,0.66
+656,98,Basic Python,19,Linear Regression,0.38
+712,93,Basic Statistics,14,Pandas and NumPy,0.78
+674,75,Intermediate Statistics,15,Control Structures,0.09
+629,80,Introduction Machine Learning,44,Control Structures,0.58
+915,93,Advanced Statistics,14,Linear Regression,0.86
+657,29,Intermediate Python,25,Variables and Data Types,0.56
+662,78,Basic Machine Learning,16,Variables and Data Types,0.86
+425,28,Basic Statistics,21,Pandas and NumPy,0.94
+405,17,Advanced Python,32,Functions,0.64
+65,92,Intermediate Data Science,15,Pandas and NumPy,0.24
+735,62,Introduction Machine Learning,1,Functions,0.91
+609,34,Intermediate Python,47,Control Structures,0.23
+973,7,Intermediate Python,13,Linear Regression,0.29
+240,7,Advanced Python,49,Control Structures,0.03
+508,23,Intermediate Data Science,27,Pandas and NumPy,0.37
+709,32,Introduction Data Science,40,Linear Regression,0.95
+154,45,Basic Python,40,Functions,0.27
+553,56,Intermediate Statistics,27,Functions,0.37
+226,35,Introduction Data Science,6,Linear Regression,0.23
+439,61,Intermediate Machine Learning,1,Functions,0.28
+943,23,Intermediate Data Science,42,Pandas and NumPy,0.69
+61,60,Advanced Data Science,25,Linear Regression,0.09
+92,87,Intermediate Data Science,29,Linear Regression,0.07
+391,97,Advanced Python,29,Functions,0.99
+818,48,Intermediate Statistics,9,Control Structures,0.33
+715,57,Advanced Machine Learning,44,Variables and Data Types,0.53
+105,32,Basic Machine Learning,24,Functions,0.26
+376,57,Intermediate Python,35,Variables and Data Types,0.78
+938,32,Advanced Machine Learning,27,Linear Regression,0.88
+90,80,Advanced Statistics,9,Linear Regression,0.55
+270,22,Introduction Statistics,7,Linear Regression,0.29
+362,64,Introduction Statistics,6,Variables and Data Types,0.96
+819,4,Basic Statistics,28,Variables and Data Types,0.66
+731,76,Introduction Data Science,5,Functions,0.54
+59,14,Basic Machine Learning,37,Functions,0.61
+269,81,Advanced Statistics,36,Variables and Data Types,0.27
+449,49,Introduction Machine Learning,47,Linear Regression,0.69
+495,73,Introduction Data Science,46,Linear Regression,0.08
+191,39,Basic Data Science,35,Control Structures,0.88
+251,79,Intermediate Machine Learning,31,Variables and Data Types,0.26
+777,97,Introduction Machine Learning,26,Control Structures,0.79
+633,82,Basic Statistics,18,Variables and Data Types,0.04
+74,41,Advanced Machine Learning,27,Pandas and NumPy,0.1
+923,95,Intermediate Statistics,46,Functions,0.44
+584,63,Intermediate Data Science,15,Pandas and NumPy,0.89

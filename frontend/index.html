@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+    <title>Personalized Learning Dashboard</title>
+</head>
+<body>
+    <div class="navbar">
+        <div class="profile">
+            <button class="profile-button" onclick="toggleProfileMenu()">👤 Profile</button>
+            <div id="profile-menu" class="profile-menu">
+                <p>User Details</p>
+                <p onclick="showUserJourney()">User Journey</p>
+                <p onclick="showNewLearning()">New Learning</p>
+                <p onclick="showCertifications()">Certifications</p>
+            </div>
+        </div>
+    </div>
+
+    <div class="content">
+        <h1>Personalized Learning Dashboard</h1>
+
+        <div class="progress-section">
+            <h2>Progress Report</h2>
+            <canvas id="progressChart"></canvas>
+            <p>Current Streak: <span id="streak">5</span> weeks</p>
+            <p>Enrolled Courses: <span id="enrolled-courses">3</span></p>
+        </div>
+
+        <div class="recommended-courses">
+            <h2>Recommended Courses</h2>
+            <div id="courses"></div>
+        </div>
+    </div>
+
+    <button class="chatbot-icon" onclick="toggleChatbot()">🤖</button>
+    <div id="chatbot-popup" class="chatbot-popup">
+        <p>How shall I help you today?</p>
+        <textarea id="chat-input" placeholder="Type your question here..."></textarea>
+        <button onclick="sendMessage()">Send</button>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+</html>

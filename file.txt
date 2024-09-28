@@ -1,0 +1,26 @@
+project/
+│
+├── backend/
+│   ├── models/
+│   │   ├── llm_model.py
+│   │   ├── rag_model.py
+│   │   ├── ensemble_model.py
+│   │   ├── probabilistic_model.py
+│   │   └── topic_recommendation_model.py
+│   ├── database/
+│   │   └── mongodb_connector.py
+│   ├── blockchain/
+│   │   ├── tezos_integration.py
+│   │   └── polygon_integration.py
+│   ├── utils/
+│   │   ├── uncertainty.py
+│   │   └── explainability.py
+│   └── api/
+│       └── main.py
+│
+├── frontend/
+│   ├── dashboard.py
+│   └── components/
+│       └── cards.py
+│
+└── config.py
